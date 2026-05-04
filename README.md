@@ -20,3 +20,43 @@ The analysis is powered by a Python script, `analysisv2.py`, which automates the
     *   Applies **T-Tests** or **Mann-Whitney U** tests for continuous variables.
     *   Utilizes **Chi-Square** or **Fisher’s Exact** tests for categorical data depending on sample distribution.
 *   **Automated Export:** Generates a structured Excel file (`CP_Epilepsy_Tables_V3.xlsx`) containing formatted tables for Demographics, Risk Factors, and CP/MRI findings.
+
+## 🛠️ Installation & Setup
+1. Install Dependencies
+Ensure you have Python installed. Clone this repository and install the required libraries using pip:
+
+```textBash
+pip install -r requirements.txt
+```
+2. Usage
+Navigate to the src/ directory.
+
+Run the analysis script:
+
+```textBash
+python analysisv2.py
+```
+File Selection: A file dialog UI will appear. Navigate to the data/ folder and select Sample_Data.xlsx (or your own formatted Data.xlsx file).
+
+Results: The script will process the data and automatically generate the final results file: CP_Epilepsy_Tables_V3.xlsx.
+
+## 👥 Research Team
+Dr. Ibrahim Khasraw Ghafoor – Assistant Professor of Pediatrics  
+
+Gailan Othman Ali – Fourth-year Medical Student
+
+Soran Salah Raouf – Fourth-year Medical Student
+
+Rawa Ahmad Salih – Fourth-year Medical Student
+
+Institution: Branch of Clinical Sciences, College of Medicine, University of Sulaimani[cite: 2].
+
+## 🔒 Ethics & Privacy
+To protect patient privacy and comply with clinical ethics, the raw dataset (Data.xlsx) is not included in this public repository[cite: 2].
+
+The data/Sample_Data.xlsx file contains randomized/synthetic data created to demonstrate the script's functionality[cite: 1].
+
+The actual study was conducted following approval from the relevant clinical and ethical authorities at the University of Sulaimani[cite: 2].
+
+## 📝 License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this code for research purposes, provided appropriate credit is given to the original research team.
