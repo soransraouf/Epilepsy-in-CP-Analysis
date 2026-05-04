@@ -52,11 +52,11 @@ Rawa Ahmad Salih – Fourth-year Medical Student
 Institution: Branch of Clinical Sciences, College of Medicine, University of Sulaimani[cite: 2].
 
 ## 🔒 Ethics & Privacy
-To protect patient privacy and comply with clinical ethics, the raw dataset (Data.xlsx) is not included in this public repository[cite: 2].
+To protect patient privacy and comply with clinical ethics, the raw dataset (Data.xlsx) is not included in this public repository.
 
-The data/Sample_Data.xlsx file contains randomized/synthetic data created to demonstrate the script's functionality[cite: 1].
+The data/Sample_Data.xlsx file contains randomized/synthetic data created to demonstrate the script's functionality.
 
-The actual study was conducted following approval from the relevant clinical and ethical authorities at the University of Sulaimani[cite: 2].
+The actual study was conducted following approval from the relevant clinical and ethical authorities at the University of Sulaimani.
 
 ## 📝 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this code for research purposes, provided appropriate credit is given to the original research team.
