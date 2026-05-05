@@ -43,11 +43,11 @@ Results: The script will process the data and automatically generate the final r
 ## 👥 Research Team
 Dr. Ibrahim Khasraw Ghafoor – Assistant Professor of Pediatrics  
 
-Gailan Othman Ali – Fourth-year Medical Student
-
 Soran Salah Raouf – Fourth-year Medical Student
 
 Rawa Ahmad Salih – Fourth-year Medical Student
+
+Gailan Othman Ali – Fourth-year Medical Student
 
 Institution: Branch of Clinical Sciences, College of Medicine, University of Sulaimani[cite: 2].
 
